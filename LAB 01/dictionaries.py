@@ -1,19 +1,16 @@
 # Lab Task 04
 # Topic: Dictionaries
 
-# -------------------------------
-# Part (i): Learn Dictionary Methods
-# -------------------------------
 
-print("===== Dictionary Methods =====")
+print("Dictionary Methods")
 
 # Show all dictionary methods
 print(dir(dict))
 
-print("\n===== Help for dict.get() =====")
+print("\nHelp for dict.get()")
 help(dict.get)
 
-print("\n===== Help for dict.update() =====")
+print("\nHelp for dict.update() ")
 help(dict.update)
 
 # Create a dictionary
@@ -68,9 +65,7 @@ print("\nAfter clear():")
 print(temp)
 
 
-# -------------------------------
-# Part (ii): Concatenate Dictionaries
-# -------------------------------
+
 
 print("\n===== Concatenate Dictionaries =====")
 
