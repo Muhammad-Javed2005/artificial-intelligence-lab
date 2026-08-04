@@ -21,7 +21,6 @@ print("\nLowercase Strings (Length > 5):")
 print(lower_words)
 
 
-# ------------------------------------------
 # Part (ii): Remove 0th, 4th and 5th Elements
 # ------------------------------------------
 
