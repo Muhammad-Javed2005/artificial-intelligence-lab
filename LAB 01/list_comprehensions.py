@@ -6,7 +6,6 @@
 # Topic: List Comprehensions
 
 # Part (i): List Comprehension
-# ------------------------------------------
 
 print("===== Part (i): List Comprehension =====")
 
