@@ -2,10 +2,8 @@
 # Topic: List Comprehensions
 
 
-# ==========================================
 # Lab Task 04
 # Topic: List Comprehensions
-# ==========================================
 
 # ------------------------------------------
 # Part (i): List Comprehension
