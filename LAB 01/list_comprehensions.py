@@ -7,6 +7,7 @@
 
 # Part (i): List Comprehension
 
+
 print("===== Part (i): List Comprehension =====")
 
 words = ["Pakistan", "Apple", "PYTHON", "Karachi", "AI", "Computer", "Hello"]
