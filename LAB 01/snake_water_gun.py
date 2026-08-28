@@ -6,7 +6,6 @@
 import random
 
 # Task 1 : Introduction
-# ==========================================================
 
 print("=" * 60)
 print("            WELCOME TO SNAKE WATER GUN GAME")
