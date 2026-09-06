@@ -1,0 +1,3 @@
+City: Karachi, Population: 20000000, Mayor: Murtaza Wahab
+City: Lahore, Population: 13000000, Mayor: Maryam Nawaz
+City: Islamabad, Population: 1200000, Mayor: Muhammad Ali
