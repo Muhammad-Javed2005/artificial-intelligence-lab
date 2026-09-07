@@ -1,6 +1,7 @@
-# ==========================================
+
 # Exercise 1 (i): Cube Volume & Category
-# ==========================================
+
+
 print("=== Exercise 1 (i): Cube Volume Category ===")
 height = float(input("Enter height (cm): "))
 width = float(input("Enter width (cm): "))
