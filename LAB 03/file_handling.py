@@ -1,4 +1,6 @@
 # Task I: Store City Details
+
+
 num_cities = int(input("How many cities do you want to enter? "))
 
 with open("cities.txt", "w") as file:
