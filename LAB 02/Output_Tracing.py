@@ -1,6 +1,5 @@
-# ==========================================
 # Exercise 2 (i) & (ii): Output Tracing
-# ==========================================
+
 print("=== Exercise 2 (i): What Would Python Print? ===")
 n = 3
 print("Tracing Output for loop 1:")
@@ -22,9 +21,9 @@ while n_inf > 0 and limit < 3:
 print("Explanation: Without a break/limit, this runs endlessly because n > 0 remains true.")
 
 
-# ==========================================
 # Exercise 2 (ii) - Subparts 1 to 5: Loop Scenarios
-# ==========================================
+
+
 print("\n=== Exercise 2 (ii).1: Country List ===")
 clist = ['Canada', 'USA', 'Mexico', 'Australia']
 print("Countries in set:")
@@ -57,9 +56,9 @@ total_sum = sum(range(100, 201))
 print(f"Sum of numbers from 100 to 200 = {total_sum}")
 
 
-# ==========================================
 # Exercise 2 (iii): While Loop Questions
-# ==========================================
+
+
 print("\n=== Exercise 2 (iii).1: Country List using While Loop ===")
 clist_while = ["Canada", "USA", "Mexico"]
 idx = 0
